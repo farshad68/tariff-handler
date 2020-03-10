@@ -1,0 +1,11 @@
+C:\Projects\git\Tariff Comparison\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Projects\git\Tariff Comparison\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projects\git\Tariff Comparison\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\git\Tariff Comparison\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Projects\git\Tariff Comparison\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Projects\git\Tariff Comparison\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Projects\git\Tariff Comparison\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Projects\git\Tariff Comparison\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\git\Tariff Comparison\Service\bin\Debug\netcoreapp3.1\Service.Model.dll
+C:\Projects\git\Tariff Comparison\Service\bin\Debug\netcoreapp3.1\Service.Model.pdb
+C:\Projects\git\Tariff Comparison\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
